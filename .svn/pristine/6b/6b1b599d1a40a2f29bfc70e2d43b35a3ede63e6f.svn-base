@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\SVN-2016-APPS-CLOUD\\versaoVTServiceStores\\VTServiceCrdva\\VTServiceCrdva\\VTServiceCrdva\\platforms\\android\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\icon.png",
+        "source": "C:\\SVN-2016-APPS-CLOUD\\versaoVTServiceStores\\VTServiceCrdva\\VTServiceCrdva\\VTServiceCrdva\\platforms\\android\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\SVN-2016-APPS-CLOUD\\VTService_Store\\VTServiceCrdva\\VTServiceCrdva\\platforms\\android\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\icon.png",
+        "source": "C:\\SVN-2016-APPS-CLOUD\\VTService_Store\\VTServiceCrdva\\VTServiceCrdva\\platforms\\android\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\SVN-2016-APPS-CLOUD\\VTService_PlayStore\\VTServiceCrdva\\platforms\\android\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\icon.png",
+        "source": "C:\\SVN-2016-APPS-CLOUD\\VTService_PlayStore\\VTServiceCrdva\\platforms\\android\\res\\drawable-mdpi\\icon.png"
+    }
+]

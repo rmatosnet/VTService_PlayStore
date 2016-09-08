@@ -1,0 +1,29 @@
+﻿<section class="page-transition" ng-controller="cartoesController">
+    <div class="container">
+        <form class="bootstrap-form-with-validation" ng-submit="abrirChamado(this)">
+            <input type="hidden" name="cpf" value="{{cpf}}" ng-model="cpf"/>
+            <div class="form-group">
+                <label class="control-label" for="text-input">Tipo de Cartão</label>
+                <input class="form-control" type="text" name="text-input" readonly="" id="text-input" ng-model="tipocartao">
+            </div>
+            <div class="form-group">
+                <label class="control-label" for="email-input">Tipo de Serviço</label>
+                <select class="form-control" required ng-model="tiposervico">
+                    <option value="0" selected>Selecione...</option>
+                    <option value="bloqueio" selected>Bloqueio</option>
+                    <option value="segunda-via">Segunda Via</option>
+                    <option value="saldo">Saldo - somente p cartão BOM</option>
+                    <option value="outros">Outros</option>
+
+                </select>
+            </div>
+            <div class="form-group">
+                <label class="control-label" for="textarea-input">Mensagem </label>
+                <textarea class="form-control" name="textarea-input" required id="textarea-input" ng-model="mensagem"></textarea>
+            </div>
+            <div class="form-group">
+                <button class="btn btn-success pull-right" type="submit">ABRIR CHAMADO</button>
+            </div>
+        </form>
+    </div>
+</section>

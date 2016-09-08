@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html ng-app="vtservice">
+<head>
+    <!--
+        Customize the content security policy in the meta tag below as needed. Add 'unsafe-inline' to default-src to enable inline JavaScript.
+        For details, see http://go.microsoft.com/fwlink/?LinkID=617521
+    -->
+    <meta http-equiv="Content-Security-Policy" content="default-src *; style-src 'self' 'unsafe-inline'; script-src 'self' 'unsafe-inline' 'unsafe-eval'">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="msapplication-tap-highlight" content="no">
+    <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width">
+    <link rel="stylesheet" type="text/css" href="css/index.css">
+    <title>VTServiceCordova</title>
+
+    <!-- bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Cookie">
+    <link href="fonts/font-awesome.min.css" rel="stylesheet" />
+
+    <!-- specifc styles -->
+    <link href="css/cards-list.css" rel="stylesheet" />
+    <link href="css/detalheschamado.css" rel="stylesheet" />
+    <link href="css/google-style-login.css" rel="stylesheet" />
+    <link href="css/listachamados.css" rel="stylesheet" />
+    <link href="css/mobilenavbar.css" rel="stylesheet" />
+    <link href="css/pretty-header.css" rel="stylesheet" />
+    <link href="css/styles.css" rel="stylesheet" />
+
+    <!-- jQuery 2.1.0 -->
+    <script src="scripts/jquery-2.1.0/jquery-2.1.0.min.js"></script>
+
+    <!-- PhoneGap Builder -->
+    <script>src = "phonegap.js"</script>
+
+    <!-- angular js -->
+    <script src="scripts/angular/angular.min.js"></script>
+    <script src="scripts/angular/angular-route.js"></script>
+    <script src="scripts/angular/angular-resource.js"></script>
+    <script src="scripts/angular/angular-animate.min.js"></script>
+    <!-- bootstrap-->
+    <script src="scripts/bootstrap/bootstrap.min.js"></script>
+
+</head>
+<body ng-controller="pageController">
+    <div ng-include='"templates/header.html"'></div>
+    <div class="ang-page">
+        <div class="page-transition" ng-view></div>
+    </div>
+    <div ng-include='"templates/mobilemenu.html"'></div>
+    <!-- angular js files-->
+    <!-- end angular js -->
+    <!-- jQuery Masked Input -->
+    <script src="scripts/plugins/jquery.maskedinput-1.4.1.min.js"></script>
+    <!-- Custom function -->
+    <script src="scripts/funcoesuteis.js"></script>
+    <script type="text/javascript" src="cordova.js"></script>
+    <script type="text/javascript" src="scripts/platformOverrides.js"></script>
+    <script type="text/javascript" src="scripts/index.js"></script>
+    <script src="scripts/app/mobilenavbar.js"></script>
+    <script src="scripts/plugins/notifyjs/notify.min.js"></script>
+    <script src="scripts/app/app.js"></script>
+    <!-- Controllers -->
+    <script src="scripts/app/pageController.js"></script>
+    <script src="scripts/app/loginController.js"></script>
+    <script src="scripts/app/cartoesController.js"></script>
+    <script src="scripts/app/chamadoController.js"></script>
+    <script src="scripts/app/logoutController.js"></script>
+</body>
+</html>

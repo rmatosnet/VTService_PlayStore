@@ -1,0 +1,15 @@
+﻿
+    <section class="conteudo-lista" ng-controller="cartoesController">
+        <div class="container conteudo" ng-repeat="card in cards">
+            <div id="media-left-aligned" class="media media-mobile" ng-click="goChamadoDetalhe(card)">
+                <div class="media-left">
+                    <a href="#/aberturachamado/{{card.numero}}"><img src="{{card.imagem}}" width="64" height="64" class="media-object" alt="64x64"></a>
+                </div>
+                <div class="media-body">
+                    <h5 class="media-heading" ng-click="goChamadoDetalhe(card)">{{card.nome_item}} </h5>
+                    <p class="lead text-uppercase text-danger">{{card.numero}}</p>
+                </div>
+            </div>
+        </div>
+    </section>
+   

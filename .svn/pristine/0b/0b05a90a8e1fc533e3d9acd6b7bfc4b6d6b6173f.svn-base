@@ -1,0 +1,542 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="19674rmatos.VTSERVICE" version="1.0" primary="true">
+		<Qualifiers>
+			<Scale>100</Scale>
+		</Qualifiers>
+		<ResourceMapSubtree name="Files">
+			<NamedResource name="config.xml" uri="ms-resource://19674rmatos.VTSERVICE/Files/config.xml">
+				<Candidate type="Path">
+					<Value>config.xml</Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="images">
+				<NamedResource name="SplashScreen.png" uri="ms-resource://19674rmatos.VTSERVICE/Files/images/SplashScreen.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>images\SplashScreen.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square150x150Logo.png" uri="ms-resource://19674rmatos.VTSERVICE/Files/images/Square150x150Logo.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>images\Square150x150Logo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square30x30Logo.png" uri="ms-resource://19674rmatos.VTSERVICE/Files/images/Square30x30Logo.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>images\Square30x30Logo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square310x310Logo.png" uri="ms-resource://19674rmatos.VTSERVICE/Files/images/Square310x310Logo.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>images\Square310x310Logo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square44x44Logo.png" uri="ms-resource://19674rmatos.VTSERVICE/Files/images/Square44x44Logo.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>images\Square44x44Logo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square70x70Logo.png" uri="ms-resource://19674rmatos.VTSERVICE/Files/images/Square70x70Logo.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>images\Square70x70Logo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square71x71Logo.png" uri="ms-resource://19674rmatos.VTSERVICE/Files/images/Square71x71Logo.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>images\Square71x71Logo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="StoreLogo.png" uri="ms-resource://19674rmatos.VTSERVICE/Files/images/StoreLogo.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>images\StoreLogo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Wide310x150Logo.png" uri="ms-resource://19674rmatos.VTSERVICE/Files/images/Wide310x150Logo.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>images\Wide310x150Logo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="www">
+				<NamedResource name="cordova.js" uri="ms-resource://19674rmatos.VTSERVICE/Files/www/cordova.js">
+					<Candidate type="Path">
+						<Value>www\cordova.js</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="cordova_plugins.js" uri="ms-resource://19674rmatos.VTSERVICE/Files/www/cordova_plugins.js">
+					<Candidate type="Path">
+						<Value>www\cordova_plugins.js</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="index.html" uri="ms-resource://19674rmatos.VTSERVICE/Files/www/index.html">
+					<Candidate type="Path">
+						<Value>www\index.html</Value>
+					</Candidate>
+				</NamedResource>
+				<ResourceMapSubtree name="cordova-js-src">
+					<NamedResource name="confighelper.js" uri="ms-resource://19674rmatos.VTSERVICE/Files/www/cordova-js-src/confighelper.js">
+						<Candidate type="Path">
+							<Value>www\cordova-js-src\confighelper.js</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="exec.js" uri="ms-resource://19674rmatos.VTSERVICE/Files/www/cordova-js-src/exec.js">
+						<Candidate type="Path">
+							<Value>www\cordova-js-src\exec.js</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="platform.js" uri="ms-resource://19674rmatos.VTSERVICE/Files/www/cordova-js-src/platform.js">
+						<Candidate type="Path">
+							<Value>www\cordova-js-src\platform.js</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="splashscreen.js" uri="ms-resource://19674rmatos.VTSERVICE/Files/www/cordova-js-src/splashscreen.js">
+						<Candidate type="Path">
+							<Value>www\cordova-js-src\splashscreen.js</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="css">
+					<NamedResource name="bootstrap-theme.min.css" uri="ms-resource://19674rmatos.VTSERVICE/Files/www/css/bootstrap-theme.min.css">
+						<Candidate type="Path">
+							<Value>www\css\bootstrap-theme.min.css</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="bootstrap.min.css" uri="ms-resource://19674rmatos.VTSERVICE/Files/www/css/bootstrap.min.css">
+						<Candidate type="Path">
+							<Value>www\css\bootstrap.min.css</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="cards-list.css" uri="ms-resource://19674rmatos.VTSERVICE/Files/www/css/cards-list.css">
+						<Candidate type="Path">
+							<Value>www\css\cards-list.css</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="detalheschamado.css" uri="ms-resource://19674rmatos.VTSERVICE/Files/www/css/detalheschamado.css">
+						<Candidate type="Path">
+							<Value>www\css\detalheschamado.css</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="google-style-login.css" uri="ms-resource://19674rmatos.VTSERVICE/Files/www/css/google-style-login.css">
+						<Candidate type="Path">
+							<Value>www\css\google-style-login.css</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="index.css" uri="ms-resource://19674rmatos.VTSERVICE/Files/www/css/index.css">
+						<Candidate type="Path">
+							<Value>www\css\index.css</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="listachamados.css" uri="ms-resource://19674rmatos.VTSERVICE/Files/www/css/listachamados.css">
+						<Candidate type="Path">
+							<Value>www\css\listachamados.css</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="mobilenavbar.css" uri="ms-resource://19674rmatos.VTSERVICE/Files/www/css/mobilenavbar.css">
+						<Candidate type="Path">
+							<Value>www\css\mobilenavbar.css</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="pretty-header.css" uri="ms-resource://19674rmatos.VTSERVICE/Files/www/css/pretty-header.css">
+						<Candidate type="Path">
+							<Value>www\css\pretty-header.css</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="splashscreen.css" uri="ms-resource://19674rmatos.VTSERVICE/Files/www/css/splashscreen.css">
+						<Candidate type="Path">
+							<Value>www\css\splashscreen.css</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="styles.css" uri="ms-resource://19674rmatos.VTSERVICE/Files/www/css/styles.css">
+						<Candidate type="Path">
+							<Value>www\css\styles.css</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="fonts">
+					<NamedResource name="font-awesome.min.css" uri="ms-resource://19674rmatos.VTSERVICE/Files/www/fonts/font-awesome.min.css">
+						<Candidate type="Path">
+							<Value>www\fonts\font-awesome.min.css</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="fontawesome-webfont.eot" uri="ms-resource://19674rmatos.VTSERVICE/Files/www/fonts/fontawesome-webfont.eot">
+						<Candidate type="Path">
+							<Value>www\fonts\fontawesome-webfont.eot</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="fontawesome-webfont.svg" uri="ms-resource://19674rmatos.VTSERVICE/Files/www/fonts/fontawesome-webfont.svg">
+						<Candidate type="Path">
+							<Value>www\fonts\fontawesome-webfont.svg</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="fontawesome-webfont.ttf" uri="ms-resource://19674rmatos.VTSERVICE/Files/www/fonts/fontawesome-webfont.ttf">
+						<Candidate type="Path">
+							<Value>www\fonts\fontawesome-webfont.ttf</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="fontawesome-webfont.woff" uri="ms-resource://19674rmatos.VTSERVICE/Files/www/fonts/fontawesome-webfont.woff">
+						<Candidate type="Path">
+							<Value>www\fonts\fontawesome-webfont.woff</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="fontawesome-webfont.woff2" uri="ms-resource://19674rmatos.VTSERVICE/Files/www/fonts/fontawesome-webfont.woff2">
+						<Candidate type="Path">
+							<Value>www\fonts\fontawesome-webfont.woff2</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="FontAwesome.otf" uri="ms-resource://19674rmatos.VTSERVICE/Files/www/fonts/FontAwesome.otf">
+						<Candidate type="Path">
+							<Value>www\fonts\FontAwesome.otf</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="images">
+					<NamedResource name="Analiseemail.jpg" uri="ms-resource://19674rmatos.VTSERVICE/Files/www/images/Analiseemail.jpg">
+						<Candidate type="Path">
+							<Value>www\images\Analiseemail.jpg</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="cordova.png" uri="ms-resource://19674rmatos.VTSERVICE/Files/www/images/cordova.png">
+						<Candidate type="Path">
+							<Value>www\images\cordova.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="finalizado.jpg" uri="ms-resource://19674rmatos.VTSERVICE/Files/www/images/finalizado.jpg">
+						<Candidate type="Path">
+							<Value>www\images\finalizado.jpg</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="finalizadolido.png" uri="ms-resource://19674rmatos.VTSERVICE/Files/www/images/finalizadolido.png">
+						<Candidate type="Path">
+							<Value>www\images\finalizadolido.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="logo_vtservice.png" uri="ms-resource://19674rmatos.VTSERVICE/Files/www/images/logo_vtservice.png">
+						<Candidate type="Path">
+							<Value>www\images\logo_vtservice.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="sendemail.png" uri="ms-resource://19674rmatos.VTSERVICE/Files/www/images/sendemail.png">
+						<Candidate type="Path">
+							<Value>www\images\sendemail.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="ticket-alimentacao.png" uri="ms-resource://19674rmatos.VTSERVICE/Files/www/images/ticket-alimentacao.png">
+						<Candidate type="Path">
+							<Value>www\images\ticket-alimentacao.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="ticket-refeicao.png" uri="ms-resource://19674rmatos.VTSERVICE/Files/www/images/ticket-refeicao.png">
+						<Candidate type="Path">
+							<Value>www\images\ticket-refeicao.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="vale-transporte.png" uri="ms-resource://19674rmatos.VTSERVICE/Files/www/images/vale-transporte.png">
+						<Candidate type="Path">
+							<Value>www\images\vale-transporte.png</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="pages">
+					<NamedResource name="aberturachamado.html" uri="ms-resource://19674rmatos.VTSERVICE/Files/www/pages/aberturachamado.html">
+						<Candidate type="Path">
+							<Value>www\pages\aberturachamado.html</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="detalheschamado.html" uri="ms-resource://19674rmatos.VTSERVICE/Files/www/pages/detalheschamado.html">
+						<Candidate type="Path">
+							<Value>www\pages\detalheschamado.html</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="listacartoes.html" uri="ms-resource://19674rmatos.VTSERVICE/Files/www/pages/listacartoes.html">
+						<Candidate type="Path">
+							<Value>www\pages\listacartoes.html</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="listachamados.html" uri="ms-resource://19674rmatos.VTSERVICE/Files/www/pages/listachamados.html">
+						<Candidate type="Path">
+							<Value>www\pages\listachamados.html</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="listachamadosold - Copy.html" uri="ms-resource://19674rmatos.VTSERVICE/Files/www/pages/listachamadosold - Copy.html">
+						<Candidate type="Path">
+							<Value>www\pages\listachamadosold - Copy.html</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="listachamadosold.html" uri="ms-resource://19674rmatos.VTSERVICE/Files/www/pages/listachamadosold.html">
+						<Candidate type="Path">
+							<Value>www\pages\listachamadosold.html</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="login.html" uri="ms-resource://19674rmatos.VTSERVICE/Files/www/pages/login.html">
+						<Candidate type="Path">
+							<Value>www\pages\login.html</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="logout.html" uri="ms-resource://19674rmatos.VTSERVICE/Files/www/pages/logout.html">
+						<Candidate type="Path">
+							<Value>www\pages\logout.html</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="plugins">
+					<ResourceMapSubtree name="cordova-plugin-network-information">
+						<ResourceMapSubtree name="src">
+							<ResourceMapSubtree name="windows">
+								<NamedResource name="NetworkInfoProxy.js" uri="ms-resource://19674rmatos.VTSERVICE/Files/www/plugins/cordova-plugin-network-information/src/windows/NetworkInfoProxy.js">
+									<Candidate type="Path">
+										<Value>www\plugins\cordova-plugin-network-information\src\windows\NetworkInfoProxy.js</Value>
+									</Candidate>
+								</NamedResource>
+							</ResourceMapSubtree>
+						</ResourceMapSubtree>
+						<ResourceMapSubtree name="www">
+							<NamedResource name="Connection.js" uri="ms-resource://19674rmatos.VTSERVICE/Files/www/plugins/cordova-plugin-network-information/www/Connection.js">
+								<Candidate type="Path">
+									<Value>www\plugins\cordova-plugin-network-information\www\Connection.js</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="network.js" uri="ms-resource://19674rmatos.VTSERVICE/Files/www/plugins/cordova-plugin-network-information/www/network.js">
+								<Candidate type="Path">
+									<Value>www\plugins\cordova-plugin-network-information\www\network.js</Value>
+								</Candidate>
+							</NamedResource>
+						</ResourceMapSubtree>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="cordova-plugin-splashscreen">
+						<ResourceMapSubtree name="www">
+							<NamedResource name="splashscreen.js" uri="ms-resource://19674rmatos.VTSERVICE/Files/www/plugins/cordova-plugin-splashscreen/www/splashscreen.js">
+								<Candidate type="Path">
+									<Value>www\plugins\cordova-plugin-splashscreen\www\splashscreen.js</Value>
+								</Candidate>
+							</NamedResource>
+							<ResourceMapSubtree name="windows">
+								<NamedResource name="SplashScreenProxy.js" uri="ms-resource://19674rmatos.VTSERVICE/Files/www/plugins/cordova-plugin-splashscreen/www/windows/SplashScreenProxy.js">
+									<Candidate type="Path">
+										<Value>www\plugins\cordova-plugin-splashscreen\www\windows\SplashScreenProxy.js</Value>
+									</Candidate>
+								</NamedResource>
+							</ResourceMapSubtree>
+						</ResourceMapSubtree>
+					</ResourceMapSubtree>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="scripts">
+					<NamedResource name="funcoesuteis.js" uri="ms-resource://19674rmatos.VTSERVICE/Files/www/scripts/funcoesuteis.js">
+						<Candidate type="Path">
+							<Value>www\scripts\funcoesuteis.js</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="index.js" uri="ms-resource://19674rmatos.VTSERVICE/Files/www/scripts/index.js">
+						<Candidate type="Path">
+							<Value>www\scripts\index.js</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="platformOverrides.js" uri="ms-resource://19674rmatos.VTSERVICE/Files/www/scripts/platformOverrides.js">
+						<Candidate type="Path">
+							<Value>www\scripts\platformOverrides.js</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="winstore-jscompat.js" uri="ms-resource://19674rmatos.VTSERVICE/Files/www/scripts/winstore-jscompat.js">
+						<Candidate type="Path">
+							<Value>www\scripts\winstore-jscompat.js</Value>
+						</Candidate>
+					</NamedResource>
+					<ResourceMapSubtree name="angular">
+						<NamedResource name="angular-animate.js" uri="ms-resource://19674rmatos.VTSERVICE/Files/www/scripts/angular/angular-animate.js">
+							<Candidate type="Path">
+								<Value>www\scripts\angular\angular-animate.js</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="angular-animate.min.js" uri="ms-resource://19674rmatos.VTSERVICE/Files/www/scripts/angular/angular-animate.min.js">
+							<Candidate type="Path">
+								<Value>www\scripts\angular\angular-animate.min.js</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="angular-animate.min.js.map" uri="ms-resource://19674rmatos.VTSERVICE/Files/www/scripts/angular/angular-animate.min.js.map">
+							<Candidate type="Path">
+								<Value>www\scripts\angular\angular-animate.min.js.map</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="angular-resource.js" uri="ms-resource://19674rmatos.VTSERVICE/Files/www/scripts/angular/angular-resource.js">
+							<Candidate type="Path">
+								<Value>www\scripts\angular\angular-resource.js</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="angular-resource.min.js" uri="ms-resource://19674rmatos.VTSERVICE/Files/www/scripts/angular/angular-resource.min.js">
+							<Candidate type="Path">
+								<Value>www\scripts\angular\angular-resource.min.js</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="angular-resource.min.js.map" uri="ms-resource://19674rmatos.VTSERVICE/Files/www/scripts/angular/angular-resource.min.js.map">
+							<Candidate type="Path">
+								<Value>www\scripts\angular\angular-resource.min.js.map</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="angular-route.js" uri="ms-resource://19674rmatos.VTSERVICE/Files/www/scripts/angular/angular-route.js">
+							<Candidate type="Path">
+								<Value>www\scripts\angular\angular-route.js</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="angular-route.min.js" uri="ms-resource://19674rmatos.VTSERVICE/Files/www/scripts/angular/angular-route.min.js">
+							<Candidate type="Path">
+								<Value>www\scripts\angular\angular-route.min.js</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="angular-route.min.js.map" uri="ms-resource://19674rmatos.VTSERVICE/Files/www/scripts/angular/angular-route.min.js.map">
+							<Candidate type="Path">
+								<Value>www\scripts\angular\angular-route.min.js.map</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="angular-touch.js" uri="ms-resource://19674rmatos.VTSERVICE/Files/www/scripts/angular/angular-touch.js">
+							<Candidate type="Path">
+								<Value>www\scripts\angular\angular-touch.js</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="angular-touch.min.js" uri="ms-resource://19674rmatos.VTSERVICE/Files/www/scripts/angular/angular-touch.min.js">
+							<Candidate type="Path">
+								<Value>www\scripts\angular\angular-touch.min.js</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="angular-touch.min.js.map" uri="ms-resource://19674rmatos.VTSERVICE/Files/www/scripts/angular/angular-touch.min.js.map">
+							<Candidate type="Path">
+								<Value>www\scripts\angular\angular-touch.min.js.map</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="angular.js" uri="ms-resource://19674rmatos.VTSERVICE/Files/www/scripts/angular/angular.js">
+							<Candidate type="Path">
+								<Value>www\scripts\angular\angular.js</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="angular.min.js" uri="ms-resource://19674rmatos.VTSERVICE/Files/www/scripts/angular/angular.min.js">
+							<Candidate type="Path">
+								<Value>www\scripts\angular\angular.min.js</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="angular.min.js.map" uri="ms-resource://19674rmatos.VTSERVICE/Files/www/scripts/angular/angular.min.js.map">
+							<Candidate type="Path">
+								<Value>www\scripts\angular\angular.min.js.map</Value>
+							</Candidate>
+						</NamedResource>
+						<ResourceMapSubtree name="i18n">
+							<NamedResource name="angular-locale_pt-br.js" uri="ms-resource://19674rmatos.VTSERVICE/Files/www/scripts/angular/i18n/angular-locale_pt-br.js">
+								<Candidate type="Path">
+									<Value>www\scripts\angular\i18n\angular-locale_pt-br.js</Value>
+								</Candidate>
+							</NamedResource>
+						</ResourceMapSubtree>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="app">
+						<NamedResource name="app.js" uri="ms-resource://19674rmatos.VTSERVICE/Files/www/scripts/app/app.js">
+							<Candidate type="Path">
+								<Value>www\scripts\app\app.js</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="cartoesController.js" uri="ms-resource://19674rmatos.VTSERVICE/Files/www/scripts/app/cartoesController.js">
+							<Candidate type="Path">
+								<Value>www\scripts\app\cartoesController.js</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="chamadoController.js" uri="ms-resource://19674rmatos.VTSERVICE/Files/www/scripts/app/chamadoController.js">
+							<Candidate type="Path">
+								<Value>www\scripts\app\chamadoController.js</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="loginController.js" uri="ms-resource://19674rmatos.VTSERVICE/Files/www/scripts/app/loginController.js">
+							<Candidate type="Path">
+								<Value>www\scripts\app\loginController.js</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="logoutController.js" uri="ms-resource://19674rmatos.VTSERVICE/Files/www/scripts/app/logoutController.js">
+							<Candidate type="Path">
+								<Value>www\scripts\app\logoutController.js</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="mobilenavbar.js" uri="ms-resource://19674rmatos.VTSERVICE/Files/www/scripts/app/mobilenavbar.js">
+							<Candidate type="Path">
+								<Value>www\scripts\app\mobilenavbar.js</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="pageController.js" uri="ms-resource://19674rmatos.VTSERVICE/Files/www/scripts/app/pageController.js">
+							<Candidate type="Path">
+								<Value>www\scripts\app\pageController.js</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="bootstrap">
+						<NamedResource name="bootstrap.js" uri="ms-resource://19674rmatos.VTSERVICE/Files/www/scripts/bootstrap/bootstrap.js">
+							<Candidate type="Path">
+								<Value>www\scripts\bootstrap\bootstrap.js</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="bootstrap.min.js" uri="ms-resource://19674rmatos.VTSERVICE/Files/www/scripts/bootstrap/bootstrap.min.js">
+							<Candidate type="Path">
+								<Value>www\scripts\bootstrap\bootstrap.min.js</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="jquery-2.1.0">
+						<NamedResource name="jquery-2.1.0.intellisense.js" uri="ms-resource://19674rmatos.VTSERVICE/Files/www/scripts/jquery-2.1.0/jquery-2.1.0.intellisense.js">
+							<Candidate type="Path">
+								<Value>www\scripts\jquery-2.1.0\jquery-2.1.0.intellisense.js</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="jquery-2.1.0.js" uri="ms-resource://19674rmatos.VTSERVICE/Files/www/scripts/jquery-2.1.0/jquery-2.1.0.js">
+							<Candidate type="Path">
+								<Value>www\scripts\jquery-2.1.0\jquery-2.1.0.js</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="jquery-2.1.0.min.js" uri="ms-resource://19674rmatos.VTSERVICE/Files/www/scripts/jquery-2.1.0/jquery-2.1.0.min.js">
+							<Candidate type="Path">
+								<Value>www\scripts\jquery-2.1.0\jquery-2.1.0.min.js</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="jquery-2.1.0.min.map" uri="ms-resource://19674rmatos.VTSERVICE/Files/www/scripts/jquery-2.1.0/jquery-2.1.0.min.map">
+							<Candidate type="Path">
+								<Value>www\scripts\jquery-2.1.0\jquery-2.1.0.min.map</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="plugins">
+						<NamedResource name="jquery.maskedinput-1.4.1.min.js" uri="ms-resource://19674rmatos.VTSERVICE/Files/www/scripts/plugins/jquery.maskedinput-1.4.1.min.js">
+							<Candidate type="Path">
+								<Value>www\scripts\plugins\jquery.maskedinput-1.4.1.min.js</Value>
+							</Candidate>
+						</NamedResource>
+						<ResourceMapSubtree name="notifyjs">
+							<NamedResource name="notify.js" uri="ms-resource://19674rmatos.VTSERVICE/Files/www/scripts/plugins/notifyjs/notify.js">
+								<Candidate type="Path">
+									<Value>www\scripts\plugins\notifyjs\notify.js</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="notify.min.js" uri="ms-resource://19674rmatos.VTSERVICE/Files/www/scripts/plugins/notifyjs/notify.min.js">
+								<Candidate type="Path">
+									<Value>www\scripts\plugins\notifyjs\notify.min.js</Value>
+								</Candidate>
+							</NamedResource>
+						</ResourceMapSubtree>
+					</ResourceMapSubtree>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="templates">
+					<NamedResource name="header.html" uri="ms-resource://19674rmatos.VTSERVICE/Files/www/templates/header.html">
+						<Candidate type="Path">
+							<Value>www\templates\header.html</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="mobilemenu.html" uri="ms-resource://19674rmatos.VTSERVICE/Files/www/templates/mobilemenu.html">
+						<Candidate type="Path">
+							<Value>www\templates\mobilemenu.html</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="WinJS">
+					<ResourceMapSubtree name="js">
+						<NamedResource name="base.js" uri="ms-resource://19674rmatos.VTSERVICE/Files/www/WinJS/js/base.js">
+							<Candidate type="Path">
+								<Value>www\WinJS\js\base.js</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

@@ -1,0 +1,17 @@
+﻿div.media-mobile {
+    min-height: 85px;
+}
+
+.media-mobile {
+    border-bottom: 1px solid rgba(215,23,23,0.3);
+    margin-bottom: 20px;
+}
+
+h5.media-heading {
+    font-size: 13px !important;
+    font-weight: bold;
+}
+
+.negrito {
+ font-weight: bold;
+}

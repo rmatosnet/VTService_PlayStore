@@ -1,0 +1,64 @@
+﻿
+<section class="conteudo page-transition" ng-controller="chamadoController">
+    <div class="container">
+        <table class="pull-left col-xs-12 responsive" id="table-chamado" >
+            <tbody>
+                <tr class="dt-space">
+                    <td class="h6"><strong>Protocolo:</strong></td>
+                    <td> </td>
+                    <td class="h5">{{protocolo}}</td>
+                </tr>
+                <tr class="dt-space">
+                    <td class="h6"><strong>Tipo solicitação:</strong></td>
+                    <td> </td>
+                    <td class="h5">{{tipochamado}}</td>
+                </tr>
+                <tr class="dt-space">
+                    <td class="h6"><strong>CPF:</strong></td>
+                    <td> </td>
+                    <td class="h5">{{cpf}}</td>
+                </tr>
+                <tr class="dt-space">
+                    <td class="h6"><strong>Cartão:</strong></td>
+                    <td> </td>
+                    <td class="h5">{{numerocard}}</td>
+                </tr>
+                <tr class="dt-space">
+                    <td class="h6"><strong>Mensagem</strong></td>
+                </tr>
+                <tr id="-callcenter">
+                    <td class="h6" colspan="4">{{mensagemusuario}}</td>
+                </tr>
+                <tr class="dt-space">
+                    <td class="h6" colspan="4"><strong>Resposta call-center</strong></td>
+                </tr>
+                <tr id="resposa-callcenter">
+                    <td class="h6" colspan="4">{{respostacallcenter}}</td>
+                </tr>
+                <tr id="resposta-callcenter">
+                    <td class="h6" colspan="4"></td>
+                </tr>
+                 <tr class="dt-space">
+                    <td class="h6"><strong>Status chamado:</strong></td>
+                    <td> </td>
+                    <td class="h5"><span class="label label-warning">{{statuschamado}}</span></td>
+                </tr>
+
+                <!--<tr class="dt-space">
+                    <td class="h6"><strong>Audio:</strong></td>
+                </tr>
+                <tr class="dt-space">
+                    <td class="h5" colspan="4">
+                        <audio controls>
+                            <source src="{{audiochamado}}" type="audio/mpeg">
+                            Your device does not support the audio element.
+                        </audio>
+                    </td>
+                </tr>-->
+
+         
+
+            </tbody>
+        </table>
+    </div>
+</section>

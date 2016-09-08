@@ -1,0 +1,433 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>RMATOS_I5_SAMSU</Machine>
+    <WindowsUser>Consultor</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|x64</SolutionConfiguration>
+    <PackageArchitecture>x64</PackageArchitecture>
+    <PackageIdentityName>9ede6640-6eda-11e6-8dc5-81228329f6ab</PackageIdentityName>
+    <PackageIdentityPublisher>CN=%24username%24</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\SVN-2016-APPS-CLOUD\VTService_PlayStore\VTServiceCrdva\platforms\windows\build\windows\bld\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <RegisteredManifestChecksum>05C102E862E687DA370B7CF712F16B707D20BDDA39A7B5C9CBE7082C7557AA94</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>trends.dwebmidia.vtservice_1.0.0.0_x64__bzbj8h50hftv4</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>trends.dwebmidia.vtservice_bzbj8h50hftv4!trends.dwebmidia.vtservice</RegisteredUserModeAppID>
+    <RegisteredPackageID>trends.dwebmidia.vtservice</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=$username$</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\SVN-2016-APPS-CLOUD\VTService_PlayStore\VTServiceCrdva\platforms\windows\build\windows\Debug\x64\win10\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-08-30T17:56:01.652</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\SVN-2016-APPS-CLOUD\VTService_PlayStore\VTServiceCrdva\platforms\windows\images\SplashScreen.scale-100.png">
+      <PackagePath>images\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-08-30T17:53:43.990</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\SVN-2016-APPS-CLOUD\VTService_PlayStore\VTServiceCrdva\platforms\windows\images\Square150x150Logo.scale-100.png">
+      <PackagePath>images\Square150x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-08-30T17:53:44.022</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\SVN-2016-APPS-CLOUD\VTService_PlayStore\VTServiceCrdva\platforms\windows\images\Square30x30Logo.scale-100.png">
+      <PackagePath>images\Square30x30Logo.scale-100.png</PackagePath>
+      <Modified>2016-08-30T17:53:44.069</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\SVN-2016-APPS-CLOUD\VTService_PlayStore\VTServiceCrdva\platforms\windows\images\Square310x310Logo.scale-100.png">
+      <PackagePath>images\Square310x310Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-08-30T17:53:44.100</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\SVN-2016-APPS-CLOUD\VTService_PlayStore\VTServiceCrdva\platforms\windows\images\Square44x44Logo.scale-100.png">
+      <PackagePath>images\Square44x44Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-08-30T17:53:44.115</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\SVN-2016-APPS-CLOUD\VTService_PlayStore\VTServiceCrdva\platforms\windows\images\Square70x70Logo.scale-100.png">
+      <PackagePath>images\Square70x70Logo.scale-100.png</PackagePath>
+      <Modified>2016-08-30T17:53:44.147</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\SVN-2016-APPS-CLOUD\VTService_PlayStore\VTServiceCrdva\platforms\windows\images\Square71x71Logo.scale-100.png">
+      <PackagePath>images\Square71x71Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-08-30T17:53:44.162</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\SVN-2016-APPS-CLOUD\VTService_PlayStore\VTServiceCrdva\platforms\windows\images\StoreLogo.scale-100.png">
+      <PackagePath>images\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-08-30T17:53:44.178</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\SVN-2016-APPS-CLOUD\VTService_PlayStore\VTServiceCrdva\platforms\windows\images\Wide310x150Logo.scale-100.png">
+      <PackagePath>images\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-08-30T17:53:44.209</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\SVN-2016-APPS-CLOUD\VTService_PlayStore\VTServiceCrdva\platforms\windows\www\images\cordova.png">
+      <PackagePath>www\images\cordova.png</PackagePath>
+      <Modified>2016-08-30T17:53:38.256</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\SVN-2016-APPS-CLOUD\VTService_PlayStore\VTServiceCrdva\platforms\windows\www\images\finalizadolido.png">
+      <PackagePath>www\images\finalizadolido.png</PackagePath>
+      <Modified>2016-08-30T17:53:38.287</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\SVN-2016-APPS-CLOUD\VTService_PlayStore\VTServiceCrdva\platforms\windows\www\images\logo_vtservice.png">
+      <PackagePath>www\images\logo_vtservice.png</PackagePath>
+      <Modified>2016-08-30T17:53:38.303</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\SVN-2016-APPS-CLOUD\VTService_PlayStore\VTServiceCrdva\platforms\windows\www\images\sendemail.png">
+      <PackagePath>www\images\sendemail.png</PackagePath>
+      <Modified>2016-08-30T17:53:38.318</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\SVN-2016-APPS-CLOUD\VTService_PlayStore\VTServiceCrdva\platforms\windows\www\images\ticket-alimentacao.png">
+      <PackagePath>www\images\ticket-alimentacao.png</PackagePath>
+      <Modified>2016-08-30T17:53:38.350</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\SVN-2016-APPS-CLOUD\VTService_PlayStore\VTServiceCrdva\platforms\windows\www\images\ticket-refeicao.png">
+      <PackagePath>www\images\ticket-refeicao.png</PackagePath>
+      <Modified>2016-08-30T17:53:38.365</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\SVN-2016-APPS-CLOUD\VTService_PlayStore\VTServiceCrdva\platforms\windows\www\images\vale-transporte.png">
+      <PackagePath>www\images\vale-transporte.png</PackagePath>
+      <Modified>2016-08-30T17:53:38.365</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\SVN-2016-APPS-CLOUD\VTService_PlayStore\VTServiceCrdva\platforms\windows\www\cordova-js-src\confighelper.js">
+      <PackagePath>www\cordova-js-src\confighelper.js</PackagePath>
+      <Modified>2016-08-30T17:53:56.288</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\SVN-2016-APPS-CLOUD\VTService_PlayStore\VTServiceCrdva\platforms\windows\www\cordova-js-src\exec.js">
+      <PackagePath>www\cordova-js-src\exec.js</PackagePath>
+      <Modified>2016-08-30T17:53:56.288</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\SVN-2016-APPS-CLOUD\VTService_PlayStore\VTServiceCrdva\platforms\windows\www\cordova-js-src\platform.js">
+      <PackagePath>www\cordova-js-src\platform.js</PackagePath>
+      <Modified>2016-08-30T17:53:56.288</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\SVN-2016-APPS-CLOUD\VTService_PlayStore\VTServiceCrdva\platforms\windows\www\cordova-js-src\splashscreen.js">
+      <PackagePath>www\cordova-js-src\splashscreen.js</PackagePath>
+      <Modified>2016-08-30T17:53:56.397</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\SVN-2016-APPS-CLOUD\VTService_PlayStore\VTServiceCrdva\platforms\windows\www\cordova.js">
+      <PackagePath>www\cordova.js</PackagePath>
+      <Modified>2016-08-30T17:53:36.943</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\SVN-2016-APPS-CLOUD\VTService_PlayStore\VTServiceCrdva\platforms\windows\www\cordova_plugins.js">
+      <PackagePath>www\cordova_plugins.js</PackagePath>
+      <Modified>2016-08-30T17:53:56.413</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\SVN-2016-APPS-CLOUD\VTService_PlayStore\VTServiceCrdva\platforms\windows\www\plugins\cordova-plugin-network-information\src\windows\NetworkInfoProxy.js">
+      <PackagePath>www\plugins\cordova-plugin-network-information\src\windows\NetworkInfoProxy.js</PackagePath>
+      <Modified>2016-08-30T17:53:56.538</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\SVN-2016-APPS-CLOUD\VTService_PlayStore\VTServiceCrdva\platforms\windows\www\plugins\cordova-plugin-network-information\www\Connection.js">
+      <PackagePath>www\plugins\cordova-plugin-network-information\www\Connection.js</PackagePath>
+      <Modified>2016-08-30T17:53:56.569</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\SVN-2016-APPS-CLOUD\VTService_PlayStore\VTServiceCrdva\platforms\windows\www\plugins\cordova-plugin-network-information\www\network.js">
+      <PackagePath>www\plugins\cordova-plugin-network-information\www\network.js</PackagePath>
+      <Modified>2016-08-30T17:53:56.600</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\SVN-2016-APPS-CLOUD\VTService_PlayStore\VTServiceCrdva\platforms\windows\www\plugins\cordova-plugin-splashscreen\www\splashscreen.js">
+      <PackagePath>www\plugins\cordova-plugin-splashscreen\www\splashscreen.js</PackagePath>
+      <Modified>2016-08-30T17:53:56.632</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\SVN-2016-APPS-CLOUD\VTService_PlayStore\VTServiceCrdva\platforms\windows\www\plugins\cordova-plugin-splashscreen\www\windows\SplashScreenProxy.js">
+      <PackagePath>www\plugins\cordova-plugin-splashscreen\www\windows\SplashScreenProxy.js</PackagePath>
+      <Modified>2016-08-30T17:53:56.647</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\SVN-2016-APPS-CLOUD\VTService_PlayStore\VTServiceCrdva\platforms\windows\www\scripts\angular\angular-animate.js">
+      <PackagePath>www\scripts\angular\angular-animate.js</PackagePath>
+      <Modified>2016-08-30T17:53:56.835</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\SVN-2016-APPS-CLOUD\VTService_PlayStore\VTServiceCrdva\platforms\windows\www\scripts\angular\angular-animate.min.js">
+      <PackagePath>www\scripts\angular\angular-animate.min.js</PackagePath>
+      <Modified>2016-08-30T17:53:56.991</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\SVN-2016-APPS-CLOUD\VTService_PlayStore\VTServiceCrdva\platforms\windows\www\scripts\angular\angular-resource.js">
+      <PackagePath>www\scripts\angular\angular-resource.js</PackagePath>
+      <Modified>2016-08-30T17:53:57.069</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\SVN-2016-APPS-CLOUD\VTService_PlayStore\VTServiceCrdva\platforms\windows\www\scripts\angular\angular-resource.min.js">
+      <PackagePath>www\scripts\angular\angular-resource.min.js</PackagePath>
+      <Modified>2016-08-30T17:53:57.085</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\SVN-2016-APPS-CLOUD\VTService_PlayStore\VTServiceCrdva\platforms\windows\www\scripts\angular\angular-route.js">
+      <PackagePath>www\scripts\angular\angular-route.js</PackagePath>
+      <Modified>2016-08-30T17:53:57.163</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\SVN-2016-APPS-CLOUD\VTService_PlayStore\VTServiceCrdva\platforms\windows\www\scripts\angular\angular-route.min.js">
+      <PackagePath>www\scripts\angular\angular-route.min.js</PackagePath>
+      <Modified>2016-08-30T17:53:57.225</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\SVN-2016-APPS-CLOUD\VTService_PlayStore\VTServiceCrdva\platforms\windows\www\scripts\angular\angular-touch.js">
+      <PackagePath>www\scripts\angular\angular-touch.js</PackagePath>
+      <Modified>2016-08-30T17:53:57.304</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\SVN-2016-APPS-CLOUD\VTService_PlayStore\VTServiceCrdva\platforms\windows\www\scripts\angular\angular-touch.min.js">
+      <PackagePath>www\scripts\angular\angular-touch.min.js</PackagePath>
+      <Modified>2016-08-30T17:53:57.304</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\SVN-2016-APPS-CLOUD\VTService_PlayStore\VTServiceCrdva\platforms\windows\www\scripts\angular\angular.js">
+      <PackagePath>www\scripts\angular\angular.js</PackagePath>
+      <Modified>2016-08-30T17:53:58.241</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\SVN-2016-APPS-CLOUD\VTService_PlayStore\VTServiceCrdva\platforms\windows\www\scripts\angular\angular.min.js">
+      <PackagePath>www\scripts\angular\angular.min.js</PackagePath>
+      <Modified>2016-08-30T17:53:58.522</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\SVN-2016-APPS-CLOUD\VTService_PlayStore\VTServiceCrdva\platforms\windows\www\scripts\angular\i18n\angular-locale_pt-br.js">
+      <PackagePath>www\scripts\angular\i18n\angular-locale_pt-br.js</PackagePath>
+      <Modified>2016-08-30T17:53:58.522</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\SVN-2016-APPS-CLOUD\VTService_PlayStore\VTServiceCrdva\platforms\windows\www\scripts\app\app.js">
+      <PackagePath>www\scripts\app\app.js</PackagePath>
+      <Modified>2016-08-30T17:53:41.506</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\SVN-2016-APPS-CLOUD\VTService_PlayStore\VTServiceCrdva\platforms\windows\www\scripts\app\cartoesController.js">
+      <PackagePath>www\scripts\app\cartoesController.js</PackagePath>
+      <Modified>2016-08-30T17:53:41.553</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\SVN-2016-APPS-CLOUD\VTService_PlayStore\VTServiceCrdva\platforms\windows\www\scripts\app\chamadoController.js">
+      <PackagePath>www\scripts\app\chamadoController.js</PackagePath>
+      <Modified>2016-08-30T17:53:41.600</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\SVN-2016-APPS-CLOUD\VTService_PlayStore\VTServiceCrdva\platforms\windows\www\scripts\app\loginController.js">
+      <PackagePath>www\scripts\app\loginController.js</PackagePath>
+      <Modified>2016-08-30T17:53:41.647</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\SVN-2016-APPS-CLOUD\VTService_PlayStore\VTServiceCrdva\platforms\windows\www\scripts\app\logoutController.js">
+      <PackagePath>www\scripts\app\logoutController.js</PackagePath>
+      <Modified>2016-08-30T17:53:41.678</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\SVN-2016-APPS-CLOUD\VTService_PlayStore\VTServiceCrdva\platforms\windows\www\scripts\app\mobilenavbar.js">
+      <PackagePath>www\scripts\app\mobilenavbar.js</PackagePath>
+      <Modified>2016-08-30T17:53:58.538</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\SVN-2016-APPS-CLOUD\VTService_PlayStore\VTServiceCrdva\platforms\windows\www\scripts\app\pageController.js">
+      <PackagePath>www\scripts\app\pageController.js</PackagePath>
+      <Modified>2016-08-30T17:53:41.709</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\SVN-2016-APPS-CLOUD\VTService_PlayStore\VTServiceCrdva\platforms\windows\www\scripts\bootstrap\bootstrap.js">
+      <PackagePath>www\scripts\bootstrap\bootstrap.js</PackagePath>
+      <Modified>2016-08-30T17:53:58.710</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\SVN-2016-APPS-CLOUD\VTService_PlayStore\VTServiceCrdva\platforms\windows\www\scripts\bootstrap\bootstrap.min.js">
+      <PackagePath>www\scripts\bootstrap\bootstrap.min.js</PackagePath>
+      <Modified>2016-08-30T17:53:58.882</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\SVN-2016-APPS-CLOUD\VTService_PlayStore\VTServiceCrdva\platforms\windows\www\scripts\funcoesuteis.js">
+      <PackagePath>www\scripts\funcoesuteis.js</PackagePath>
+      <Modified>2016-08-30T17:53:58.944</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\SVN-2016-APPS-CLOUD\VTService_PlayStore\VTServiceCrdva\platforms\windows\www\scripts\index.js">
+      <PackagePath>www\scripts\index.js</PackagePath>
+      <Modified>2016-08-30T17:53:42.240</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\SVN-2016-APPS-CLOUD\VTService_PlayStore\VTServiceCrdva\platforms\windows\www\scripts\jquery-2.1.0\jquery-2.1.0.intellisense.js">
+      <PackagePath>www\scripts\jquery-2.1.0\jquery-2.1.0.intellisense.js</PackagePath>
+      <Modified>2016-08-30T17:53:59.335</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\SVN-2016-APPS-CLOUD\VTService_PlayStore\VTServiceCrdva\platforms\windows\www\scripts\jquery-2.1.0\jquery-2.1.0.js">
+      <PackagePath>www\scripts\jquery-2.1.0\jquery-2.1.0.js</PackagePath>
+      <Modified>2016-08-30T17:53:59.688</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\SVN-2016-APPS-CLOUD\VTService_PlayStore\VTServiceCrdva\platforms\windows\www\scripts\jquery-2.1.0\jquery-2.1.0.min.js">
+      <PackagePath>www\scripts\jquery-2.1.0\jquery-2.1.0.min.js</PackagePath>
+      <Modified>2016-08-30T17:53:59.938</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\SVN-2016-APPS-CLOUD\VTService_PlayStore\VTServiceCrdva\platforms\windows\www\scripts\platformOverrides.js">
+      <PackagePath>www\scripts\platformOverrides.js</PackagePath>
+      <Modified>2016-08-30T17:53:43.178</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\SVN-2016-APPS-CLOUD\VTService_PlayStore\VTServiceCrdva\platforms\windows\www\scripts\plugins\jquery.maskedinput-1.4.1.min.js">
+      <PackagePath>www\scripts\plugins\jquery.maskedinput-1.4.1.min.js</PackagePath>
+      <Modified>2016-08-30T17:53:59.938</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\SVN-2016-APPS-CLOUD\VTService_PlayStore\VTServiceCrdva\platforms\windows\www\scripts\plugins\notifyjs\notify.js">
+      <PackagePath>www\scripts\plugins\notifyjs\notify.js</PackagePath>
+      <Modified>2016-08-30T17:54:00.032</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\SVN-2016-APPS-CLOUD\VTService_PlayStore\VTServiceCrdva\platforms\windows\www\scripts\plugins\notifyjs\notify.min.js">
+      <PackagePath>www\scripts\plugins\notifyjs\notify.min.js</PackagePath>
+      <Modified>2016-08-30T17:54:00.126</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\SVN-2016-APPS-CLOUD\VTService_PlayStore\VTServiceCrdva\platforms\windows\www\scripts\winstore-jscompat.js">
+      <PackagePath>www\scripts\winstore-jscompat.js</PackagePath>
+      <Modified>2016-08-30T17:53:43.444</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\SVN-2016-APPS-CLOUD\VTService_PlayStore\VTServiceCrdva\platforms\windows\www\WinJS\js\base.js">
+      <PackagePath>www\WinJS\js\base.js</PackagePath>
+      <Modified>2016-08-30T17:53:36.537</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\SVN-2016-APPS-CLOUD\VTService_PlayStore\VTServiceCrdva\platforms\windows\www\css\bootstrap-theme.min.css">
+      <PackagePath>www\css\bootstrap-theme.min.css</PackagePath>
+      <Modified>2016-08-30T17:53:56.429</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\SVN-2016-APPS-CLOUD\VTService_PlayStore\VTServiceCrdva\platforms\windows\www\css\bootstrap.min.css">
+      <PackagePath>www\css\bootstrap.min.css</PackagePath>
+      <Modified>2016-08-30T17:53:56.460</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\SVN-2016-APPS-CLOUD\VTService_PlayStore\VTServiceCrdva\platforms\windows\www\css\cards-list.css">
+      <PackagePath>www\css\cards-list.css</PackagePath>
+      <Modified>2016-08-30T17:53:56.460</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\SVN-2016-APPS-CLOUD\VTService_PlayStore\VTServiceCrdva\platforms\windows\www\css\detalheschamado.css">
+      <PackagePath>www\css\detalheschamado.css</PackagePath>
+      <Modified>2016-08-30T17:53:56.460</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\SVN-2016-APPS-CLOUD\VTService_PlayStore\VTServiceCrdva\platforms\windows\www\css\google-style-login.css">
+      <PackagePath>www\css\google-style-login.css</PackagePath>
+      <Modified>2016-08-30T17:53:56.460</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\SVN-2016-APPS-CLOUD\VTService_PlayStore\VTServiceCrdva\platforms\windows\www\css\index.css">
+      <PackagePath>www\css\index.css</PackagePath>
+      <Modified>2016-08-30T17:53:56.475</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\SVN-2016-APPS-CLOUD\VTService_PlayStore\VTServiceCrdva\platforms\windows\www\css\listachamados.css">
+      <PackagePath>www\css\listachamados.css</PackagePath>
+      <Modified>2016-08-30T17:53:56.475</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\SVN-2016-APPS-CLOUD\VTService_PlayStore\VTServiceCrdva\platforms\windows\www\css\mobilenavbar.css">
+      <PackagePath>www\css\mobilenavbar.css</PackagePath>
+      <Modified>2016-08-30T17:53:56.475</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\SVN-2016-APPS-CLOUD\VTService_PlayStore\VTServiceCrdva\platforms\windows\www\css\pretty-header.css">
+      <PackagePath>www\css\pretty-header.css</PackagePath>
+      <Modified>2016-08-30T17:53:56.475</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\SVN-2016-APPS-CLOUD\VTService_PlayStore\VTServiceCrdva\platforms\windows\www\css\splashscreen.css">
+      <PackagePath>www\css\splashscreen.css</PackagePath>
+      <Modified>2016-08-30T17:53:37.396</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\SVN-2016-APPS-CLOUD\VTService_PlayStore\VTServiceCrdva\platforms\windows\www\css\styles.css">
+      <PackagePath>www\css\styles.css</PackagePath>
+      <Modified>2016-08-30T17:53:56.491</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\SVN-2016-APPS-CLOUD\VTService_PlayStore\VTServiceCrdva\platforms\windows\www\fonts\font-awesome.min.css">
+      <PackagePath>www\fonts\font-awesome.min.css</PackagePath>
+      <Modified>2016-08-30T17:53:56.507</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\SVN-2016-APPS-CLOUD\VTService_PlayStore\VTServiceCrdva\platforms\windows\www\fonts\fontawesome-webfont.eot">
+      <PackagePath>www\fonts\fontawesome-webfont.eot</PackagePath>
+      <Modified>2016-08-30T17:53:37.818</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\SVN-2016-APPS-CLOUD\VTService_PlayStore\VTServiceCrdva\platforms\windows\www\fonts\fontawesome-webfont.svg">
+      <PackagePath>www\fonts\fontawesome-webfont.svg</PackagePath>
+      <Modified>2016-08-30T17:53:37.959</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\SVN-2016-APPS-CLOUD\VTService_PlayStore\VTServiceCrdva\platforms\windows\www\fonts\fontawesome-webfont.ttf">
+      <PackagePath>www\fonts\fontawesome-webfont.ttf</PackagePath>
+      <Modified>2016-08-30T17:53:38.053</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\SVN-2016-APPS-CLOUD\VTService_PlayStore\VTServiceCrdva\platforms\windows\www\fonts\fontawesome-webfont.woff">
+      <PackagePath>www\fonts\fontawesome-webfont.woff</PackagePath>
+      <Modified>2016-08-30T17:53:38.146</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\SVN-2016-APPS-CLOUD\VTService_PlayStore\VTServiceCrdva\platforms\windows\www\fonts\fontawesome-webfont.woff2">
+      <PackagePath>www\fonts\fontawesome-webfont.woff2</PackagePath>
+      <Modified>2016-08-30T17:53:38.209</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\SVN-2016-APPS-CLOUD\VTService_PlayStore\VTServiceCrdva\platforms\windows\www\fonts\FontAwesome.otf">
+      <PackagePath>www\fonts\FontAwesome.otf</PackagePath>
+      <Modified>2016-08-30T17:53:37.521</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\SVN-2016-APPS-CLOUD\VTService_PlayStore\VTServiceCrdva\platforms\windows\www\images\Analiseemail.jpg">
+      <PackagePath>www\images\Analiseemail.jpg</PackagePath>
+      <Modified>2016-08-30T17:53:38.240</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\SVN-2016-APPS-CLOUD\VTService_PlayStore\VTServiceCrdva\platforms\windows\www\images\finalizado.jpg">
+      <PackagePath>www\images\finalizado.jpg</PackagePath>
+      <Modified>2016-08-30T17:53:38.271</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\SVN-2016-APPS-CLOUD\VTService_PlayStore\VTServiceCrdva\platforms\windows\www\index.html">
+      <PackagePath>www\index.html</PackagePath>
+      <Modified>2016-08-30T17:53:56.507</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\SVN-2016-APPS-CLOUD\VTService_PlayStore\VTServiceCrdva\platforms\windows\www\pages\aberturachamado.html">
+      <PackagePath>www\pages\aberturachamado.html</PackagePath>
+      <Modified>2016-08-30T17:53:38.506</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\SVN-2016-APPS-CLOUD\VTService_PlayStore\VTServiceCrdva\platforms\windows\www\pages\detalheschamado.html">
+      <PackagePath>www\pages\detalheschamado.html</PackagePath>
+      <Modified>2016-08-30T17:53:38.568</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\SVN-2016-APPS-CLOUD\VTService_PlayStore\VTServiceCrdva\platforms\windows\www\pages\listacartoes.html">
+      <PackagePath>www\pages\listacartoes.html</PackagePath>
+      <Modified>2016-08-30T17:53:38.600</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\SVN-2016-APPS-CLOUD\VTService_PlayStore\VTServiceCrdva\platforms\windows\www\pages\listachamados.html">
+      <PackagePath>www\pages\listachamados.html</PackagePath>
+      <Modified>2016-08-30T17:53:38.678</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\SVN-2016-APPS-CLOUD\VTService_PlayStore\VTServiceCrdva\platforms\windows\www\pages\listachamadosold - Copy.html">
+      <PackagePath>www\pages\listachamadosold - Copy.html</PackagePath>
+      <Modified>2016-08-30T17:53:38.709</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\SVN-2016-APPS-CLOUD\VTService_PlayStore\VTServiceCrdva\platforms\windows\www\pages\listachamadosold.html">
+      <PackagePath>www\pages\listachamadosold.html</PackagePath>
+      <Modified>2016-08-30T17:53:38.725</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\SVN-2016-APPS-CLOUD\VTService_PlayStore\VTServiceCrdva\platforms\windows\www\pages\login.html">
+      <PackagePath>www\pages\login.html</PackagePath>
+      <Modified>2016-08-30T17:53:38.756</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\SVN-2016-APPS-CLOUD\VTService_PlayStore\VTServiceCrdva\platforms\windows\www\pages\logout.html">
+      <PackagePath>www\pages\logout.html</PackagePath>
+      <Modified>2016-08-30T17:53:38.787</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\SVN-2016-APPS-CLOUD\VTService_PlayStore\VTServiceCrdva\platforms\windows\www\templates\header.html">
+      <PackagePath>www\templates\header.html</PackagePath>
+      <Modified>2016-08-30T17:53:43.459</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\SVN-2016-APPS-CLOUD\VTService_PlayStore\VTServiceCrdva\platforms\windows\www\templates\mobilemenu.html">
+      <PackagePath>www\templates\mobilemenu.html</PackagePath>
+      <Modified>2016-08-30T17:53:43.490</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\SVN-2016-APPS-CLOUD\VTService_PlayStore\VTServiceCrdva\platforms\windows\www\scripts\angular\angular-animate.min.js.map">
+      <PackagePath>www\scripts\angular\angular-animate.min.js.map</PackagePath>
+      <Modified>2016-08-30T17:53:39.303</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\SVN-2016-APPS-CLOUD\VTService_PlayStore\VTServiceCrdva\platforms\windows\www\scripts\angular\angular-resource.min.js.map">
+      <PackagePath>www\scripts\angular\angular-resource.min.js.map</PackagePath>
+      <Modified>2016-08-30T17:53:39.740</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\SVN-2016-APPS-CLOUD\VTService_PlayStore\VTServiceCrdva\platforms\windows\www\scripts\angular\angular-route.min.js.map">
+      <PackagePath>www\scripts\angular\angular-route.min.js.map</PackagePath>
+      <Modified>2016-08-30T17:53:40.021</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\SVN-2016-APPS-CLOUD\VTService_PlayStore\VTServiceCrdva\platforms\windows\www\scripts\angular\angular-touch.min.js.map">
+      <PackagePath>www\scripts\angular\angular-touch.min.js.map</PackagePath>
+      <Modified>2016-08-30T17:53:40.225</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\SVN-2016-APPS-CLOUD\VTService_PlayStore\VTServiceCrdva\platforms\windows\www\scripts\angular\angular.min.js.map">
+      <PackagePath>www\scripts\angular\angular.min.js.map</PackagePath>
+      <Modified>2016-08-30T17:53:41.412</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\SVN-2016-APPS-CLOUD\VTService_PlayStore\VTServiceCrdva\platforms\windows\www\scripts\jquery-2.1.0\jquery-2.1.0.min.map">
+      <PackagePath>www\scripts\jquery-2.1.0\jquery-2.1.0.min.map</PackagePath>
+      <Modified>2016-08-30T17:53:43.131</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\SVN-2016-APPS-CLOUD\VTService_PlayStore\VTServiceCrdva\platforms\windows\config.xml">
+      <PackagePath>config.xml</PackagePath>
+      <Modified>2016-08-30T17:53:54.538</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\SVN-2016-APPS-CLOUD\VTService_PlayStore\VTServiceCrdva\platforms\windows\build\windows\Debug\x64\win10\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-08-30T17:56:00.574</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

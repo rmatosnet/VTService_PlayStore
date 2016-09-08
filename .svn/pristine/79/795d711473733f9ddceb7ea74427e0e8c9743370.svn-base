@@ -1,0 +1,5 @@
+﻿<div class="login-card" ng-controller="logoutController"  ng-show="showLogin" >
+   <img src="images/logo_vtservice.png" class="profile-img-card">
+    <p class="profile-name-card"> Obrigado!</p>
+ 
+</div>

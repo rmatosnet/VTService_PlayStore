@@ -1,0 +1,11 @@
+{
+     "android": {
+         "release": {
+             "keystore": "C:\\AppSign\\dwebnetkey.keystore",
+             "storePassword": "master2055",
+             "alias": "dwebnet",
+             "password" : "master2055",
+             "keystoreType": ""
+         }
+     }
+ }

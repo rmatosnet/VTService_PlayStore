@@ -1,0 +1,26 @@
+﻿
+<section class="conteudo-lista page-transition" style="margin-top:-5%;" ng-controller="chamadoController">
+    <div class="container conteudo" ng-repeat="mychamado in chamadosVT">
+        <div id="media-left-aligned" class="media media-mobile" ng-click="lerchamadoVTSERVICE(mychamado)">
+            <div class="media-left"  ng-if="mychamado.status === 'Em Análise' ">
+                <img src="images/Analiseemail.jpg" width="32" height="32" class="media-object" alt="64x64">
+            </div>
+            <div class="media-left" ng-if="mychamado.status === 'Pendente' ">
+                <img src="images/sendemail.png" width="32" height="32" class="media-object" alt="64x64">
+            </div>
+            <div class="media-left" ng-if="(mychamado.status === 'Finalizado') && (mychamado.lidocli==='S')">
+                <img src="images/finalizadolido.png" width="32" height="32" class="media-object" alt="64x64">
+            </div>
+            <div class="media-left" ng-if="(mychamado.status === 'Finalizado') && (mychamado.lidocli!=='S')">
+                <img src="images/finalizado.jpg" width="32" height="32" class="media-object" alt="64x64">
+            </div>
+             <div class="media-body" ng-click="lerchamadoVTSERVICE(mychamado)">
+                <h5 class="media-heading"  ng-click="lerchamadoVTSERVICE(mychamado)"> ID: {{mychamado.solicitacao_id}}</h5>
+                <h5 class="media-heading" ng-click="lerchamadoVTSERVICE(mychamado)">Tipo: {{mychamado.tipo_solicitacao}} </h5>
+                <p class="lead text-uppercase text-danger">{{mychamado.observacao.substring(0,40)}}...</p>
+            </div>
+        </div>
+    </div>
+ 
+</section>
+

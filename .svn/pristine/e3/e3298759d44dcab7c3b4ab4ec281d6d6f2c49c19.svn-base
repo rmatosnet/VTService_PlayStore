@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\SVN-2016-APPS-CLOUD\\VTService_Store\\VTServiceCrdva\\VTServiceCrdva\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\icon.png",
+        "source": "C:\\SVN-2016-APPS-CLOUD\\VTService_Store\\VTServiceCrdva\\VTServiceCrdva\\platforms\\android\\res\\drawable-ldpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Rodrigo\\Documents\\Visual Studio 2015\\Projects\\CORDOVAPLATFORM\\VTServiceCrdva\\VTServiceCrdva\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\icon.png",
+        "source": "C:\\Users\\Rodrigo\\Documents\\Visual Studio 2015\\Projects\\CORDOVAPLATFORM\\VTServiceCrdva\\VTServiceCrdva\\platforms\\android\\res\\drawable-ldpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Projetos\\RodrigoMatos\\VTServiceCrdva\\VTServiceCrdva\\VTServiceCrdva\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\icon.png",
+        "source": "C:\\Projetos\\RodrigoMatos\\VTServiceCrdva\\VTServiceCrdva\\VTServiceCrdva\\platforms\\android\\res\\drawable-ldpi\\icon.png"
+    },
+    {
+        "merged": "C:\\SVN-2016-APPS-CLOUD\\VTService_PlayStore\\VTServiceCrdva\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\icon.png",
+        "source": "C:\\SVN-2016-APPS-CLOUD\\VTService_PlayStore\\VTServiceCrdva\\platforms\\android\\res\\drawable-ldpi\\icon.png"
+    }
+]

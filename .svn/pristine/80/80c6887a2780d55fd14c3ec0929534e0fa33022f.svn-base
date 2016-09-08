@@ -1,0 +1,48 @@
+﻿<!-- Mobile Menu -->
+
+<nav class="navbar navbar-inverse navbar-fixed-botton navbar-mobile-t navbar-inverse-mobile animate" ng-show="menuVisible">
+    <div class="container navbar-more hidden-xs">
+        <ul class="nav navbar-nav"></ul>
+    </div>
+    <div class="container">
+        <ul class="nav navbar-nav navbar-right mobile-bar">
+            <li>
+                <a href="#/meuscartoes">
+                    <span class="menu-icon fa fa-credit-card"></span>
+                    Cartões
+                </a>
+            </li>
+            <li>
+                <a href="#/meuschamados">
+                    <!-- <span class="menu-icon fa fa-bell-slash"></span> -->
+                    <span class="menu-icon notification fa fa-bell"></span>
+                    <span class="hidden-xs">Chamados</span>
+                    <span class="visible-xs">Chamados <span class="badge-mobile">{{chamadosnlidos}}</span></span>
+
+                </a>
+            </li>
+            <li class="hidden-xs hidden">
+                <a href="#">
+                    <span class="menu-icon fa fa-ship"></span>
+                    link2
+                </a>
+            </li>
+            <li class="hidden-xs">
+                <a href="#">
+                    <span class="menu-icon fa fa-bell-o"></span>
+                    link1
+                </a>
+            </li>
+            <li>
+                <a href="#/logout">
+                    <span class="menu-icon fa fa-power-off"></span>
+                    <span class="hidden-xs">Sair</span>
+                    <span class="visible-xs">Sair</span>
+                </a>
+            </li>
+
+        </ul>
+    </div>
+</nav>
+
+<!-- Mobile Menu -->

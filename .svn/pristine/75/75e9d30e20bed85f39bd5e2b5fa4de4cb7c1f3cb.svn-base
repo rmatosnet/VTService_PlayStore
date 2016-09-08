@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\SVN-2016-APPS-CLOUD\VTService_PlayStore\VTServiceCrdva\platforms\android\build\intermediates\exploded-aar\android\CordovaLib\unspecified\debug\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="b373249461520ea573816b438039e183d49778c4">
+        <dex dex="C:\SVN-2016-APPS-CLOUD\VTService_PlayStore\VTServiceCrdva\platforms\android\build\intermediates\pre-dexed\debug\CordovaLib-unspecified-debug_7283b96b3598f28fcfff6ada4b018535e31cab12.jar" />
+    </item>
+    <item
+        jar="C:\SVN-2016-APPS-CLOUD\VTService_Store\VTServiceCrdva\VTServiceCrdva\platforms\android\build\intermediates\exploded-aar\android\CordovaLib\unspecified\debug\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="ffd6a7f6451bb1de22db54e7bb7a88a30ce89b84">
+        <dex dex="C:\SVN-2016-APPS-CLOUD\VTService_Store\VTServiceCrdva\VTServiceCrdva\platforms\android\build\intermediates\pre-dexed\debug\CordovaLib-unspecified-debug_583bd661c4d15a282d40ca112ba2f2d89c8decc5.jar" />
+    </item>
+    <item
+        jar="C:\SVN-2016-APPS-CLOUD\VTService_PlayStore\VTServiceCrdva\platforms\android\build\intermediates\exploded-aar\android\CordovaLib\unspecified\release\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="b6fd4b3c206687253d82dd099dd8ffe20352b70e">
+        <dex dex="C:\SVN-2016-APPS-CLOUD\VTService_PlayStore\VTServiceCrdva\platforms\android\build\intermediates\pre-dexed\release\CordovaLib-unspecified-release_eadf9e693c2a030fb91822bf8df39c0a514dd4c6.jar" />
+    </item>
+    <item
+        jar="C:\SVN-2016-APPS-CLOUD\VTService_Store\VTServiceCrdva\VTServiceCrdva\platforms\android\build\intermediates\exploded-aar\android\CordovaLib\unspecified\release\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="5b4b4c56cde21879f18a228b969ad8b3e44d6102">
+        <dex dex="C:\SVN-2016-APPS-CLOUD\VTService_Store\VTServiceCrdva\VTServiceCrdva\platforms\android\build\intermediates\pre-dexed\release\CordovaLib-unspecified-release_3ad2641a989463088e7bd9ed5685c8314d7bfbf8.jar" />
+    </item>
+
+</items>

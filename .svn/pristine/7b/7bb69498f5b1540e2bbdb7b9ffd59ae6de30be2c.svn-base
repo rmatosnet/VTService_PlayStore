@@ -1,0 +1,21 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "io.cordova.myappa5606c"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "io.cordova.myappa5606c"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "trends.dwebmidia.vtservice"
+        }
+    },
+    "dependent_plugins": {}
+}

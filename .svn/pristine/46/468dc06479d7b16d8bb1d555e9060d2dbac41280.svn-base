@@ -1,0 +1,188 @@
+[
+    {
+        "outputFile": "C:\\SVN-2016-APPS-CLOUD\\versaoVTServiceStores\\VTServiceCrdva\\VTServiceCrdva\\VTServiceCrdva\\platforms\\android\\build\\intermediates\\res\\merged\\release\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 63,
+                    "endOffset": 114
+                },
+                "from": {
+                    "file": "C:\\SVN-2016-APPS-CLOUD\\versaoVTServiceStores\\VTServiceCrdva\\VTServiceCrdva\\VTServiceCrdva\\platforms\\android\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 161,
+                        "endColumn": 63,
+                        "endOffset": 220
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 119,
+                    "endColumn": 46,
+                    "endOffset": 161
+                },
+                "from": {
+                    "file": "C:\\SVN-2016-APPS-CLOUD\\versaoVTServiceStores\\VTServiceCrdva\\VTServiceCrdva\\VTServiceCrdva\\platforms\\android\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 46,
+                        "endOffset": 97
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 166,
+                    "endColumn": 58,
+                    "endOffset": 220
+                },
+                "from": {
+                    "file": "C:\\SVN-2016-APPS-CLOUD\\versaoVTServiceStores\\VTServiceCrdva\\VTServiceCrdva\\VTServiceCrdva\\platforms\\android\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 102,
+                        "endColumn": 58,
+                        "endOffset": 156
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\SVN-2016-APPS-CLOUD\\VTService_Store\\VTServiceCrdva\\VTServiceCrdva\\platforms\\android\\build\\intermediates\\res\\merged\\release\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 63,
+                    "endOffset": 114
+                },
+                "from": {
+                    "file": "C:\\SVN-2016-APPS-CLOUD\\VTService_Store\\VTServiceCrdva\\VTServiceCrdva\\platforms\\android\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 161,
+                        "endColumn": 63,
+                        "endOffset": 220
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 119,
+                    "endColumn": 46,
+                    "endOffset": 161
+                },
+                "from": {
+                    "file": "C:\\SVN-2016-APPS-CLOUD\\VTService_Store\\VTServiceCrdva\\VTServiceCrdva\\platforms\\android\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 46,
+                        "endOffset": 97
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 166,
+                    "endColumn": 58,
+                    "endOffset": 220
+                },
+                "from": {
+                    "file": "C:\\SVN-2016-APPS-CLOUD\\VTService_Store\\VTServiceCrdva\\VTServiceCrdva\\platforms\\android\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 102,
+                        "endColumn": 58,
+                        "endOffset": 156
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\SVN-2016-APPS-CLOUD\\VTService_PlayStore\\VTServiceCrdva\\platforms\\android\\build\\intermediates\\res\\merged\\release\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 63,
+                    "endOffset": 114
+                },
+                "from": {
+                    "file": "C:\\SVN-2016-APPS-CLOUD\\VTService_PlayStore\\VTServiceCrdva\\platforms\\android\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 161,
+                        "endColumn": 63,
+                        "endOffset": 220
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 119,
+                    "endColumn": 46,
+                    "endOffset": 161
+                },
+                "from": {
+                    "file": "C:\\SVN-2016-APPS-CLOUD\\VTService_PlayStore\\VTServiceCrdva\\platforms\\android\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 46,
+                        "endOffset": 97
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 166,
+                    "endColumn": 58,
+                    "endOffset": 220
+                },
+                "from": {
+                    "file": "C:\\SVN-2016-APPS-CLOUD\\VTService_PlayStore\\VTServiceCrdva\\platforms\\android\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 102,
+                        "endColumn": 58,
+                        "endOffset": 156
+                    }
+                }
+            }
+        ]
+    }
+]
